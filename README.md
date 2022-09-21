@@ -1,3 +1,3 @@
 # Certifications
 
-![CheggCertification](https://github.com/pkpndy/Certifications/blob/main/Chegg Certification.jpg?raw=true)
+![CheggCertification](https://github.com/pkpndy/Certifications/blob/main/CheggCertification.jpg?raw=true)
